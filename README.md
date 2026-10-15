@@ -118,18 +118,13 @@ python food_order_system.py          # interactive menu
 python food_order_system.py demo     # automatic demo
 ```
 
-## Deploy on GitHub Pages
-1. Push the project files to a GitHub repository.
-2. Open **Settings > Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then **Save**.
-4. After a minute the site is live at `https://<your-username>.github.io/<repo-name>/`.
-
-## Screenshots
-Add your screenshots to the `screenshots/` folder and update the file names below.
 
 | Place an order | Waiting queue | Kitchen and tracking |
 |---|---|---|
-| ![Place order](screenshots/place-order.png) | ![Queue](screenshots/queue.png) | ![Kitchen](screenshots/kitchen.png) |
+| ![Place order](<img width="889" height="476" alt="Screenshot 2026-10-15 220526" src="https://github.com/user-attachments/assets/51151e5e-fd9c-476e-8d09-7b8c17339fd8" />
+.png) | ![Queue](<img width="889" height="490" alt="Screenshot 2026-10-15 221038" src="https://github.com/user-attachments/assets/66dd764d-d60b-44f9-b9d4-fb59f1fc15c7" />
+.png) | ![Kitchen](<img width="890" height="493" alt="Screenshot 2026-10-15 221015" src="https://github.com/user-attachments/assets/2a6cbe82-bb68-40ef-babe-4735103bffb5" />
+.png) |
 
 ## Sample Console Output
 
